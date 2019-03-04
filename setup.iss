@@ -34,7 +34,7 @@ Version=19.0.142.10426
 Company=BERNINA
 Lang=0409
 [{08288AD3-4D8D-40F0-994D-FA1DC7E438B8}-SdFinishReboot-0]
-Result=1
-BootOption=0
+Result=6
+BootOption=3
 [{B68E46F9-1140-4D72-9983-F427F685675C}-DlgOrder]
 Count=0
